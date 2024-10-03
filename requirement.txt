@@ -1,0 +1,8 @@
+torch
+dataclasses
+datasets
+sacrebleu
+transformers
+sentencepiece
+wandb
+nltk
